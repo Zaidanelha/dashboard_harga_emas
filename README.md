@@ -17,4 +17,3 @@ Dashboard interaktif untuk menganalisis tren harga emas menggunakan Streamlit.
 - 🔥 Heatmap Korelasi
 - 🤖 Model Regresi Linier
 
-## 📁 Struktur Project
